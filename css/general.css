@@ -47,7 +47,7 @@ header {
     background-image: url(../images/nailpolish.jpg);
     overflow: hidden;
     background-repeat: no-repeat;
-    background-size: 25rem;
+    background-size: 100%;
     background-position: center center;
 }
 
