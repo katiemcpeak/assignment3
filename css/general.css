@@ -223,14 +223,14 @@ footer {
 
 .polishphotored figcaption {
     background-color: rgba(178, 27, 28, .8);
-    padding: .5rem;
+    padding: 0 5% 1.5rem;
     border-bottom-left-radius: .9rem;
     border-bottom-right-radius: .9rem;
 }
 
-figure h4 {  
+.polishphotored h4 {  
     background-color: rgba(178, 27, 28, .8);
-    padding: 0 0 1.5rem;
+    padding: 0 5% 1.5rem;
     margin: 0;
     height: 1rem;
     padding-top: .5rem;
@@ -242,9 +242,17 @@ figure h4 {
 
 .polishphotoorange figcaption {
     background-color: rgba(255, 128, 0, .8);
-    padding: .5rem;
+    padding: 0 5% 1.5rem;
     border-bottom-left-radius: .9rem;
     border-bottom-right-radius: .9rem;
+}
+
+.polishphotoorange h4 {  
+    background-color: rgba(255, 128, 0, .8);
+    padding: 0 5% 1.5rem;
+    margin: 0;
+    height: 1rem;
+    padding-top: .5rem;
 }
 
 .polishphotoyellow {
@@ -253,9 +261,17 @@ figure h4 {
 
 .polishphotoyellow figcaption {
     background-color: rgba(255, 223, 0, .8);
-    padding: .5rem;
+    padding: 0 5% 1.5rem;
     border-bottom-left-radius: .9rem;
     border-bottom-right-radius: .9rem;
+}
+
+.polishphotoyellow h4 {  
+    background-color: rgba(255, 223, 0, .8);
+    padding: 0 5% 1.5rem;
+    margin: 0;
+    height: 1rem;
+    padding-top: .5rem;
 }
 
 .polishphotogreen {
@@ -264,9 +280,17 @@ figure h4 {
 
 .polishphotogreen figcaption {
     background-color: rgba(19, 136, 8, .8);
-    padding: .5rem;
+    padding: 0 5% 1.5rem;
     border-bottom-left-radius: .9rem;
     border-bottom-right-radius: .9rem;
+}
+
+.polishphotogreen h4 {  
+    background-color: rgba(19, 136, 8, .8);
+    padding: 0 5% 1.5rem;
+    margin: 0;
+    height: 1rem;
+    padding-top: .5rem;
 }
 
 .polishphotoblue {
@@ -275,9 +299,17 @@ figure h4 {
 
 .polishphotoblue figcaption {
     background-color: rgba(19, 102, 255, .8);
-    padding: .5rem;
+    padding: 0 5% 1.5rem;
     border-bottom-left-radius: .9rem;
     border-bottom-right-radius: .9rem;
+}
+
+.polishphotoblue h4 {  
+    background-color: rgba(19, 102, 255, .8);
+    padding: 0 5% 1.5rem;
+    margin: 0;
+    height: 1rem;
+    padding-top: .5rem;
 }
 
 .polishphotopurple {
@@ -286,9 +318,17 @@ figure h4 {
 
 .polishphotopurple figcaption {
     background-color: rgba(138, 43, 255, .8);
-    padding: .5rem;
+    padding: 0 5% 1.5rem;
     border-bottom-left-radius: .9rem;
     border-bottom-right-radius: .9rem;
+}
+
+.polishphotopurple h4 {  
+    background-color: rgba(138, 43, 255, .8);
+    padding: 0 5% 1.5rem;
+    margin: 0;
+    height: 1rem;
+    padding-top: .5rem;
 }
 
 .polishphotopink {
@@ -297,7 +337,15 @@ figure h4 {
 
 .polishphotopink figcaption {
     background-color: rgba(255, 102, 255, .8);
-    padding: .5rem;
+    padding: 0 5% 1.5rem;
     border-bottom-left-radius: .9rem;
     border-bottom-right-radius: .9rem;
+}
+
+.polishphotopink h4 {  
+    background-color: rgba(255, 102, 255, .8);
+    padding: 0 5% 1.5rem;
+    margin: 0;
+    height: 1rem;
+    padding-top: .5rem;
 }
