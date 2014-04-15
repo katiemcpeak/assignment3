@@ -200,8 +200,8 @@ footer {
 }
 
 .products figure img {
-    border-top-left-radius: 1.25rem;
-    border-top-right-radius: 1.25rem;
+    border-top-left-radius: .9rem;
+    border-top-right-radius: .9rem;
 }
 
 .products figure {
