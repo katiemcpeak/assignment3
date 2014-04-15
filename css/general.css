@@ -34,6 +34,14 @@ p {
     line-height: 1.75rem;
 }
 
+.dropcap:first-letter {
+    font-size: 4rem;
+    font-weight: bold;
+    float: left;
+    margin: 1rem .5rem .1rem 0;
+    color: purple;
+}
+
 body {
     margin: 0;
     padding: 0;
