@@ -206,6 +206,12 @@ footer {
     line-height: 1.5rem;
 }
 
+.icons {
+    height: 3rem;
+    width: 3rem;
+    float: right;
+}
+
 .products figure img {
     border-top-left-radius: .9rem;
     border-top-right-radius: .9rem;
